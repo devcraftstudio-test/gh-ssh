@@ -1,0 +1,18 @@
+keys:
+  - host: github.com-ym
+    host_name: github.com
+    user: git
+    email: yael.montufar@gmail.com
+    identity_file: ~/.ssh/id_ed25519_ym
+    identities_only: true
+    auto_add: true
+    passphrase_protected: false
+
+  - host: github.com-dcs-test
+    host_name: github.com
+    user: git
+    email: devcraftstudio.test@gmail.com
+    identity_file: ~/.ssh/id_ed25519_dcs
+    identities_only: true
+    auto_add: true
+    passphrase_protected: false
